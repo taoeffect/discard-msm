@@ -76,3 +76,5 @@ $discard,site=themorningnews.com
 $discard,site=weather.com
 $discard,site=nationalgeographic.com
 $discard,site=sciencealert.com
+$discard,site=nist.gov
+$discard,site=fema.gov
