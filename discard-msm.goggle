@@ -20,6 +20,7 @@ $discard,site=nbcnews.com
 $discard,site=nbcnewyork.com
 $discard,site=nbcconnecticut.com
 $discard,site=abc.com
+$discard,site=abc.net.au
 $discard,site=go.com
 $discard,site=cbs.com
 $discard,site=cbsnews.com
@@ -124,6 +125,7 @@ $discard,site=nyc.gov
 $discard,site=loc.gov
 $discard,site=state.gov
 $discard,site=georgewbushlibrary.gov
+$discard,site=whitehouse.gov
 
 ! These folk deserve a boost
 $boost=3,site=ae911truth.org
