@@ -31,6 +31,7 @@ $discard,site=nymag.com
 $discard,site=latimes.com
 $discard,site=foreignpolicy.com
 $discard,site=foreignaffairs.com
+$discard,site=britannica.com
 $discard,site=politico.com
 $discard,site=thenation.com
 $discard,site=vice.com
