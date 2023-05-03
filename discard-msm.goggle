@@ -73,12 +73,17 @@ $discard,site=nowthisnews.com
 $discard,site=themorningnews.com
 $discard,site=weather.com
 $discard,site=nationalgeographic.com
+$discard,site=history.com
 $discard,site=sciencealert.com
 $discard,site=space.com
 $discard,site=nist.gov
 $discard,site=fema.gov
 $discard,site=msn.com
 $discard,site=nasa.gov
+$discard,site=justice.gov
+$discard,site=9-11commission.gov
+$discard,site=www.history.navy.mil
+$discard,site=fbi.gov
 
 ! These folk deserve a boost
 $boost=3,site=corbettreport.com
