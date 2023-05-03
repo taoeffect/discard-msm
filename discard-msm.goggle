@@ -74,6 +74,10 @@ $discard,site=nowthisnews.com
 $discard,site=themorningnews.com
 $discard,site=weather.com
 $discard,site=nationalgeographic.com
+$discard,site=pewresearch.org
+$discard,site=911memorial.org
+$discard,site=millercenter.org
+$discard,site=iwm.org.uk
 $discard,site=history.com
 $discard,site=sciencealert.com
 $discard,site=space.com
@@ -95,3 +99,6 @@ $boost=3,site=ae911truth.org
 $boost=3,site=wtc7.net
 $boost=3,site=corbettreport.com
 $boost=3,site=wikispooks.com
+
+! No clear explanation why these appear in the results when they shouldn't
+$downrank=3,site=modernmemorydesign.com
