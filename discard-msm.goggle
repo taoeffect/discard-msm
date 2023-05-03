@@ -83,6 +83,7 @@ $discard,site=usatoday.com
 $discard,site=wikipedia.org
 $discard,site=aljazeera.com
 $discard,site=aljazeera.net
+$discard,site=ajplus.net
 $discard,site=rt.com
 $discard,site=businessinsider.com
 $discard,site=telegraph.co.uk
