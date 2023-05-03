@@ -6,6 +6,14 @@
 ! license: MIT
 ! avatar: #93d077
 
+$discard,site=avclub.com
+$discard,site=deadspin.com
+$discard,site=jalopnik.com
+$discard,site=jezebel.com
+$discard,site=kotaku.com
+$discard,site=qz.com
+$discard,site=theroot.com
+$discard,site=theinventory.com
 $discard,site=popsugar.com
 $discard,site=seeker.com
 $discard,site=curbed.com
