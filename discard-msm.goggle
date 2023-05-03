@@ -86,6 +86,8 @@ $discard,site=9-11commission.gov
 $discard,site=fbi.gov
 $discard,site=tsa.gov
 $discard,site=va.gov
+$discard,site=dhs.gov
+$discard,site=georgewbushlibrary.gov
 
 ! These folk deserve a boost
 $boost=3,site=corbettreport.com
