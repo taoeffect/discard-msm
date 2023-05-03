@@ -92,6 +92,7 @@ $discard,site=fbi.gov
 $discard,site=tsa.gov
 $discard,site=va.gov
 $discard,site=dhs.gov
+$discard,site=nyc.gov
 $discard,site=georgewbushlibrary.gov
 
 ! These folk deserve a boost
@@ -102,3 +103,4 @@ $boost=3,site=wikispooks.com
 
 ! No clear explanation why these appear in the results when they shouldn't
 $downrank=3,site=modernmemorydesign.com
+$downrank=3,site=wayfair.com
