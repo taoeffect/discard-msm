@@ -6,6 +6,13 @@
 ! license: MIT
 ! avatar: #93d077
 
+$discard,site=popsugar.com
+$discard,site=seeker.com
+$discard,site=curbed.com
+$discard,site=thedodo.com
+$discard,site=thrillist.com
+$discard,site=sbnation.com
+$discard,site=polygon.com
 $discard,site=nytimes.com
 $discard,site=newsweek.com
 $discard,site=cnn.com
