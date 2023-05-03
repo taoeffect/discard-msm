@@ -56,7 +56,6 @@ $discard,site=aljazeera.com
 $discard,site=aljazeera.net
 $discard,site=rt.com
 $discard,site=businessinsider.com
-$discard,site=rt.com
 $discard,site=telegraph.co.uk
 $discard,site=guardian.co.uk
 $discard,site=yahoo.com
@@ -78,3 +77,6 @@ $discard,site=nationalgeographic.com
 $discard,site=sciencealert.com
 $discard,site=nist.gov
 $discard,site=fema.gov
+
+! These folk deserve a boost
+$boost=3,corbettreport.com
