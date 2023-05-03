@@ -2,6 +2,9 @@
 ! public: true
 ! author: Greg Slepak
 ! name: Discard MSM
+! homepage: https://github.com/taoeffect/discard-msm
+! license: MIT
+! avatar: #93d077
 
 $discard,site=nytimes.com
 $discard,site=newsweek.com
