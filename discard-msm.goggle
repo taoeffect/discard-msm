@@ -77,6 +77,7 @@ $discard,site=nationalgeographic.com
 $discard,site=sciencealert.com
 $discard,site=nist.gov
 $discard,site=fema.gov
+$discard,site=msn.com
 
 ! These folk deserve a boost
 $boost=3,site=corbettreport.com
