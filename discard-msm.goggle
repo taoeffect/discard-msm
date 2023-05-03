@@ -20,6 +20,7 @@ $discard,site=forbes.com
 $discard,site=wsj.com
 $discard,site=snopes.com
 $discard,site=politifact.com
+$discard,site=verifythis.com
 $discard,site=bloomberg.com
 $discard,site=slate.com
 $discard,site=newyorker.com
