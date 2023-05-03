@@ -79,4 +79,4 @@ $discard,site=nist.gov
 $discard,site=fema.gov
 
 ! These folk deserve a boost
-$boost=3,corbettreport.com
+$boost=3,site=corbettreport.com
