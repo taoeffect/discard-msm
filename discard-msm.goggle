@@ -6,21 +6,6 @@
 ! license: MIT
 ! avatar: #93d077
 
-$discard,site=avclub.com
-$discard,site=deadspin.com
-$discard,site=jalopnik.com
-$discard,site=jezebel.com
-$discard,site=kotaku.com
-$discard,site=qz.com
-$discard,site=theroot.com
-$discard,site=theinventory.com
-$discard,site=popsugar.com
-$discard,site=seeker.com
-$discard,site=curbed.com
-$discard,site=thedodo.com
-$discard,site=thrillist.com
-$discard,site=sbnation.com
-$discard,site=polygon.com
 $discard,site=nytimes.com
 $discard,site=newsweek.com
 $discard,site=cnn.com
@@ -111,6 +96,21 @@ $discard,site=mit.edu
 $discard,site=popsci.com
 $discard,site=popularmechanics.com
 $discard,site=usnews.com
+$discard,site=avclub.com
+$discard,site=deadspin.com
+$discard,site=jalopnik.com
+$discard,site=jezebel.com
+$discard,site=kotaku.com
+$discard,site=qz.com
+$discard,site=theroot.com
+$discard,site=theinventory.com
+$discard,site=popsugar.com
+$discard,site=seeker.com
+$discard,site=curbed.com
+$discard,site=thedodo.com
+$discard,site=thrillist.com
+$discard,site=sbnation.com
+$discard,site=dailykos.com
 $discard,site=metro.co.uk
 $discard,site=heraldsun.com.au
 $discard,site=ctvnews.ca
