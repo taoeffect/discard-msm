@@ -153,6 +153,8 @@ $boost=3,site=ae911truth.org
 $boost=3,site=wtc7.net
 $boost=3,site=corbettreport.com
 $boost=3,site=wikispooks.com
+$boost=2,site=globalresearch.ca
+$boost=2,site=mintpressnews.com
 
 ! No clear explanation why these appear in the results when they shouldn't
 $downrank=3,site=modernmemorydesign.com
