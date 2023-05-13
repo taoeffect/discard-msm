@@ -80,6 +80,7 @@ $discard,site=vox.com
 $discard,site=theatlantic.com
 $discard,site=usatoday.com
 $discard,site=wikipedia.org
+$discard,site=rationalwiki.org
 $discard,site=aljazeera.com
 $discard,site=aljazeera.net
 $discard,site=ajplus.net
