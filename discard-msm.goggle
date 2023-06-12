@@ -148,6 +148,34 @@ $discard,site=loc.gov
 $discard,site=state.gov
 $discard,site=georgewbushlibrary.gov
 $discard,site=whitehouse.gov
+! https://twitter.com/taoeffect/status/1668097172213231616
+$discard,site=https://morganton.com
+$discard,site=https://statesville.com
+$discard,site=https://oanow.com
+$discard,site=https://dbrnews.com
+$discard,site=https://independenttribune.com
+$discard,site=https://elkodaily.com
+$discard,site=https://scnow.com
+$discard,site=https://tdn.com
+$discard,site=https://dothaneagle.com
+$discard,site=https://poststar.com
+$discard,site=https://theeagle.com
+$discard,site=https://auburnpub.com
+$discard,site=https://mcdowellnews.com
+$discard,site=https://godanriver.com
+$discard,site=https://rapidcityjournal.com
+$discard,site=https://cumberlink.com
+$discard,site=https://greensboro.com
+$discard,site=https://azdailysun.com
+$discard,site=https://omaha.com
+$discard,site=https://tucson.com
+$discard,site=https://www.stltoday.com
+$discard,site=https://mtstandard.com
+$discard,site=https://tulsaworld.com
+$discard,site=https://helenair.com
+$discard,site=https://missoulian.com
+$discard,site=https://journalstar.com
+$discard,site=https://billingsgazette.com
 
 ! These folk deserve a boost
 $boost=3,site=ae911truth.org
