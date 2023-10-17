@@ -11,6 +11,7 @@ $discard,site=newsweek.com
 $discard,site=cnn.com
 $discard,site=washingtonpost.com
 $discard,site=huffingtonpost.com
+$discard,site=huffpost.com
 $discard,site=cnet.com
 $discard,site=foxnews.com
 $discard,site=msnbc.com
